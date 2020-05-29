@@ -1,1 +1,1 @@
-# http://jahnavipanwar.github.io/coursera/index.html
+# http://jahnavipanwar.github.io
